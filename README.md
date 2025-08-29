@@ -42,6 +42,4 @@ Pronto! Agora é só ler a história e digitar suas escolhas.
 
 * **Python 3**
 
-## 📂 Estrutura do Projeto
 
-O código foi organizado da seguinte forma para praticar os conceitos de modularização:
